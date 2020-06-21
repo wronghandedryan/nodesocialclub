@@ -1,0 +1,37 @@
+{
+  "name": "nodesocialclub",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "nodemon src/app.js",
+    "test": "node run test"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.5.0",
+    "cookie-parser": "~1.4.4",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "~4.16.1",
+    "express-handlebars": "^4.0.4",
+    "hbs": "~4.0.4",
+    "honeybadger": "^1.4.0",
+    "http-errors": "~1.6.3",
+    "mongoose": "^5.9.19",
+    "uniq": "^1.0.1"
+  },
+  "devDependencies": {
+    "uuid": "^8.1.0",
+    "nodemon": "^2.0.4",
+    "debug": "~2.6.9",
+    "morgan": "~1.9.1"
+  },
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

@@ -1,0 +1,20 @@
+body {
+  padding: 50px;
+  background-color: black;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #10a10b;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+  font-family: monospace;
+}
+
+header {
+  background-color: gray;
+  color: black;
+  
+}
